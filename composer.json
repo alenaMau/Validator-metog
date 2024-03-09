@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Validator\\": "src/"
+            "metog\\": "src/"
         },
         "files": [
             "src/ImageValidator.php",
